@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b1c9b64d681a8b42859dea00c8eda5c, type: 3}
+  m_Name: "Catal\xE0"
+  m_EditorClassIdentifier: 
+  texto1: Hola Victor, ets un geni
+  texto2: Posam un 10 si us plau
+  texto3: Sino els meus pares em maten
+  texto4: "I tamb\xE9 em deshereden"
+  textoBoton1: "Castell\xE0"
+  textoBoton2: "Catal\xE0"
+  textoBoton3: "Angl\xE8s"
